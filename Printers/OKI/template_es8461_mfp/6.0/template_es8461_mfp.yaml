@@ -13,7 +13,7 @@ zabbix_export:
       description: |
         ## Overview
         
-        I created this template for my office printer OKI ES8461 MFP.
+        I created this template for my office printer OKI ES8461 MFP, ES8473 MFP.
         
         
         Not sure if it works with any other models.
